@@ -32,9 +32,9 @@ Gopnik is sleeping so late, I am sleeping by the time he wakes.
 
 ## '5 Whys' Root Cause Analysis
 
-| Question                   | Answer |
-| -------------------------- | ------ |
-| Why did Gopnik not answer? |        |
+| Question                    | Answer |
+| --------------------------- | ------ |
+| Why did Gopnik not message? |        |
 
 
 ## Actions to take to stop this happening in the future
