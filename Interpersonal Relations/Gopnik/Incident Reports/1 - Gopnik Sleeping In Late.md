@@ -32,10 +32,14 @@ Gopnik is sleeping so late, I am sleeping by the time he wakes.
 
 ## '5 Whys' Root Cause Analysis
 
-| Question                    | Answer |
-| --------------------------- | ------ |
-| Why did Gopnik not message? |        |
+| Question                                       | Answer                                           |
+| ---------------------------------------------- | ------------------------------------------------ |
+| Why did Gopnik not message?                    | Too many emotions to message.                    |
+| Why was Gopnik feeling so many emotions?       | Something to do with his mother.                 |
+| Why couldn't Gopnik talk about those feelings? | He gets uncomfortable around sharing about this. |
+| Why is he uncomfortable?                       | I do not know.                                   |
+| ...                                            | ...                                              |
 
 
 ## Actions to take to stop this happening in the future
-Ideas for new coping mechanisms to try
+Code word
