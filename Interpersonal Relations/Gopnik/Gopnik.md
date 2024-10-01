@@ -10,6 +10,8 @@ Relation:: Partner
 Pronouns:: He, Him, His
 Age:: 19
 Birthday:: 01-01-1970
+KnownSince:: 
+Locations::
 
 ## Reports
 
