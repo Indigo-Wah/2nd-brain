@@ -42,4 +42,7 @@ Gopnik is sleeping so late, I am sleeping by the time he wakes.
 
 
 ## Actions to take to stop this happening in the future
-Code word
+Code Word for saying "I am okay, but I can not talk". 
+This would solve the issue of not knowing if Gopnik is okay or not while not forcing anyone to have to give details about a triggering event.
+
+![[../Systems/Code Word|Code Word]]
