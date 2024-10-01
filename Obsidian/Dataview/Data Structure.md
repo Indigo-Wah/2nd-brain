@@ -1,2 +1,0 @@
-# Data(view) Structure
-

@@ -3,6 +3,7 @@ tags:
   - InterRelations/Gopnik
   - Person
   - Data
+  - Sleep
 ---
 # Sleeping Data - Gopnik
 DocType:: DataSheet
