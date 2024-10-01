@@ -9,7 +9,7 @@ DocType:: Person
 Relation:: Partner
 Pronouns:: He, Him, His
 Age:: 19
-Birthday:: 01-01-1970
+Birthday:: 02-03-2005
 KnownSince:: 18-09-2024
 DatedSince:: 22-09-2024
 Locations:: Netherlands, Macedonia
