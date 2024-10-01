@@ -6,7 +6,7 @@ tags:
 ---
 # Sleeping Data - Gopnik
 DocType:: DataSheet
-Description:: "Collection of S"
+Description:: "Collection of Sleep data for Gopnik since 23rd Sep"
 
 | Day        | Sleep Times | Wake Times | Time Sleeping (HH:MM) |
 | ---------- | ----------- | ---------- | --------------------- |
