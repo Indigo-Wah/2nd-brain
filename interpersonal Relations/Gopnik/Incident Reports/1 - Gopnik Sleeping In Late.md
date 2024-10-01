@@ -1,3 +1,8 @@
+---
+tags:
+  - InterRelations/Gopnik
+  - Person
+---
 # Gopnik Sleeping in Late
 
 DocType:: Report
