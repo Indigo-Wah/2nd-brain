@@ -26,7 +26,11 @@ Gopnik is sleeping so late, I am sleeping by the time he wakes.
 | 00:40     | 18:40         | Gopnik Responds, Going to sleep | Feeling Empty, Frustrated   |
 
 ## '5 Whys' Root Cause Analysis
-Ask yourself 'Why' 5 times. (Include only the 5 most important answers)
+
+| Question                   | Answer |
+| -------------------------- | ------ |
+| Why did Gopnik not answer? |        |
+
 
 ## Actions to take to stop this happening in the future
 Ideas for new coping mechanisms to try
