@@ -5,6 +5,8 @@ tags:
   - Data
 ---
 # Sleeping Data - Gopnik
+DocType:: DataSheet
+Description:: "Collection of S"
 
 | Day        | Sleep Times | Wake Times | Time Sleeping (HH:MM) |
 | ---------- | ----------- | ---------- | --------------------- |
@@ -15,4 +17,4 @@ tags:
 | 27-09-2024 | 23:30-      | 12:30      | 13:00                 |
 | 28-09-2024 | 03:30       | 12:30      | 09:00                 |
 | 29-09-2024 | 02:00       | 11:00      | 09:00                 |
-| 30-09-2024 | 3:30        |            |                       |
+| 30-09-2024 | 03:30       | 11:30      | 08:00                 |
