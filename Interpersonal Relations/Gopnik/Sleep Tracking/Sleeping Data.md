@@ -1,2 +1,6 @@
 # Sleeping Data - Gopnik
 
+| Day        | Sleep Times | Wake Times | Time Sleeping (HH:MM) |
+| ---------- | ----------- | ---------- | --------------------- |
+| 23-09-2024 | 3:00        | 13:30      | 10:30                 |
+| 24-09-2024 |             |            |                       |
