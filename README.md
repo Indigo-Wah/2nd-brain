@@ -16,3 +16,7 @@ Try very hard to note the things that should be noted, even if it is difficult, 
 
 ### Note imperfectly
 Embrace imperfection, do not fear it. It will go wrong, and when it does, improve, but never stop.
+
+## GitHub
+
+This repo may be available on GitHub but is not built for GitHub... It is built for Obsidian and uses the associated Obsidian flavor of MarkDown. Feel free to clone this done into Obsidian or a MarkDown viewer with support for this flavor for best viewing experience.
