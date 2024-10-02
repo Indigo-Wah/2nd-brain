@@ -19,4 +19,5 @@ Embrace imperfection, do not fear it. It will go wrong, and when it does, improv
 
 ## GitHub
 
-This repo may be available on GitHub but is not built for GitHub... It is built for Obsidian and uses the associated Obsidian flavor of MarkDown. Feel free to clone this done into Obsidian or a MarkDown viewer with support for this flavor for best viewing experience.
+This repo may be available on GitHub but is not built for GitHub... It is built for Obsidian and uses the associated Obsidian flavor of Markdown. Feel free to clone this done into Obsidian or a Markdown viewer with support for this flavor for best viewing experience.
+
